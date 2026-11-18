@@ -1,4 +1,12 @@
-# news-image-20261118 — entry
+# news-image-20261118-entry
+
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/ayilinalin/news-image-20261118-entry/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/ayilinalin/news-image-20261118-entry/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+Entry for the make.fun competition
+[`news-image-20261118`](https://make.fun/bounty/news-image-20261118): one image
+summing up the world news of **Wednesday 18 November 2026**.
 
 Newspaper front page summing up the world news of **Wednesday 18 November 2026**:
 
@@ -23,3 +31,7 @@ output.
 
 make.fun bounty `news-image-20261118` — one image summing up 18 November
 2026's world news. License: MIT.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
